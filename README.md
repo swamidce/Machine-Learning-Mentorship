@@ -80,10 +80,9 @@ Python for Machine Learning
 
 ### Tasks : 
 
-
 Submit your codes in Python in the Task 1 folder.
 
-Submit atleast 40 Problems including Hackerrank and CodeChef in 4 days as example of problems are given below.
+Submit atleast 40 Problems including Hackerrank and CodeChef within 4 days.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
