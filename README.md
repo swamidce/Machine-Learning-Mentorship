@@ -83,14 +83,8 @@ Python for Machine Learning
 
 Submit your codes in Python in the Task 1 folder.
 
-1.1 [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
+Submit atleast 40 Problems including Hackerrank and CodeChef in 4 days as example of problems are given below.
 
-1.2 [Word Order](https://www.hackerrank.com/challenges/word-order/problem)
-
-1.3 [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem)
-
-1.4 [Matrix Script](https://www.hackerrank.com/challenges/matrix-script/problem) (Optional)
-    
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 ### WEEK 2
